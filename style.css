@@ -3,9 +3,9 @@
 
 
 .navbar{ 
-       width: 100%;          
+       width: 390px;          
                 
-       height: 50px;
+       height: 51px;
        background-color: #a39898;
        color:black;
        top:0%;
@@ -19,7 +19,7 @@
 
         /* div1 */
 
- .div11{ width: 100%;
+ .div11{ width:390px;
        height: 300px;
       
          border:2px solid black;
@@ -37,7 +37,7 @@
     }
   /*div2*/
   .div2{
-        width:100%;
+        width:390px;
         height: 250px;
         background-color: #edeaef;
       margin-bottom:5px;
